@@ -9,7 +9,7 @@ FirstScreen
 ![FirstScreen](https://github.com/konoin/EmojiReader/blob/main/%20FirstScreen.jpg)
 
 SecondScreen
-![SecondScreen](https://github.com/konoin/EmojiReader/blob/main/%20SecondScreen.jpg)
+![SecondScreen](https://github.com/konoin/EmojiReader/blob/main/SrcondScreen.jpg)
 
 ThirdScreen
-![ThirdScreen](https://github.com/konoin/EmojiReader/blob/main/%20ThirdScreen.jpg)
+![ThirdScreen](https://github.com/konoin/EmojiReader/blob/main/ThirdScreen.jpg)
